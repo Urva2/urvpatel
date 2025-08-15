@@ -20,10 +20,9 @@
 
 ## 🚀 Projects
 
-- [*Attendance Management System*](#) – Tracks student attendance.
-- [*Watch Fitness Tracker*](#) – Hackathon project for step counting, sleep reminders, and health index calculation.
-- [*Markdown to HTML Converter*](#) – Converts Markdown files into HTML pages.
-
+- [*Attendance Management System*](https://github.com/Urva2/Attendance) – Tracks student attendance.
+- [*Watch Fitness Tracker*](https://github.com/Urva2/watch-fitness-tracker) – Hackathon project for step counting, sleep reminders, and health index calculation.
+- [*Markdown to HTML Converter*](https://github.com/Urva2/MarkdownToHTML) – Converts Markdown files into HTML pages.
 ---
 
 ## 📊 GitHub Stats
